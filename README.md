@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Sampat Singh Rathore
+# 👋 Hi, I’m Sampat Singh
 
 ## Engineering Team Lead | Full-Stack Architect | Solutions Architect
 
